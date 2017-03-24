@@ -43,13 +43,13 @@ html{
 }
 
 .food{
-	float:left;
+    float:right;
     width: 600px;	
     margin:0 auto;
 }
 
 .search{
-	float:left;
+    float:right;
     width: 600px;
     height: 50px;
     margin:20px auto;
