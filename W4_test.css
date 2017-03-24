@@ -38,7 +38,8 @@ html{
 
 }
 
-.content{
+.content{    
+    width: 850px;
     margin-bottom: 20px;
 }
 
