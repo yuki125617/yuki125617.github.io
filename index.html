@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Salary</title>
+	<link rel="stylesheet" type="text/css" href="all.css">
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script type="text/javascript" src="all.js"></script>
+	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js'></script>
+
+</head>
+<body>
+
+    <script>
+
+$(function(){
+	
+	$(".goTop").click(function(){
+
+		$("html,body").animate({scrollTop:0},900);
+
+		//$("html,body").animate({scrollTop:0},900,"easeOutBounce");
+
+		return false;
+
+	});
+
+});
+    </script>
+	<div class="wrap">
+		<div class="all">
+			<h1>台灣各行業薪資比較</h1>
+			<h2>總勞動人口數:3871000人</h2>
+			
+				
+				<div class="time" style="float: right;">
+					<input type="checkbox" value="1" name=""> 顯示工時
+				</div>
+				<div class="clear"></div>
+				<div id="chart_div"   style="width: 1300px; height: 700px;"></div>
+		</div>
+		<div class="specific">
+			<h1>教育服務業男女比例</h1>
+			<h2>勞動人口數:25689人</h2>
+			
+				
+				<div id="chart_div2"  style="width: 900px; height: 500px;"></div>
+
+
+
+		</div>
+
+	</div>
+	<div class="goTop" ><p align="center"><a href="#">按我回去</a></p></div>
+	<p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+</body>
+</html>
