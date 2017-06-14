@@ -1,0 +1,189 @@
+[
+  {
+    "work": "金融及保險業",
+    "male": 143343,
+    "female": 231791,
+    "salaryMale": 93015,
+    "salaryFemale": 79552,
+    "timeMale": 162.4,
+    "timeFemale": 162.4,
+    "hourMale": 572.7524631,
+    "hourFemale": 489.8522167
+  },
+  {
+    "work": "電力及燃氣供應業",
+    "male": 25546,
+    "female": 4244,
+    "salaryMale": 99346,
+    "salaryFemale": 78969,
+    "timeMale": 176.2,
+    "timeFemale": 166.8,
+    "hourMale": 563.8251986,
+    "hourFemale": 473.4352518
+  },
+  {
+    "work": "醫療保健服務業",
+    "male": 65067,
+    "female": 269454,
+    "salaryMale": 99187,
+    "salaryFemale": 55631,
+    "timeMale": 171.1,
+    "timeFemale": 172.5,
+    "hourMale": 579.7019287,
+    "hourFemale": 322.4985507
+  },
+  {
+    "work": "資訊及通訊傳播業",
+    "male": 102715,
+    "female": 92946,
+    "salaryMale": 72677,
+    "salaryFemale": 59576,
+    "timeMale": 166,
+    "timeFemale": 164.2,
+    "hourMale": 437.813253,
+    "hourFemale": 362.8258222
+  },
+  {
+    "work": "專業、科學及技術服務業",
+    "male": 134112,
+    "female": 118947,
+    "salaryMale": 63364,
+    "salaryFemale": 52489,
+    "timeMale": 172.3,
+    "timeFemale": 168.6,
+    "hourMale": 367.7539176,
+    "hourFemale": 311.3226572
+  },
+  {
+    "work": "運輸及倉儲業",
+    "male": 192866,
+    "female": 90951,
+    "salaryMale": 53841,
+    "salaryFemale": 45660,
+    "timeMale": 181.3,
+    "timeFemale": 171.1,
+    "hourMale": 296.9718698,
+    "hourFemale": 266.8614845
+  },
+  {
+    "work": "礦業及土石採取業",
+    "male": 3212,
+    "female": 688,
+    "salaryMale": 56391,
+    "salaryFemale": 42176,
+    "timeMale": 178.6,
+    "timeFemale": 175.5,
+    "hourMale": 315.7390817,
+    "hourFemale": 240.3190883
+  },
+  {
+    "work": "批發及零售業",
+    "male": 775454,
+    "female": 865439,
+    "salaryMale": 48437,
+    "salaryFemale": 42845,
+    "timeMale": 171.6,
+    "timeFemale": 170.2,
+    "hourMale": 282.2668998,
+    "hourFemale": 251.733255
+  },
+  {
+    "work": "用水供應及污染整治業",
+    "male": 21370,
+    "female": 6463,
+    "salaryMale": 44385,
+    "salaryFemale": 43515,
+    "timeMale": 177.1,
+    "timeFemale": 170.3,
+    "hourMale": 250.621118,
+    "hourFemale": 255.5196712
+  },
+  {
+    "work": "製造業",
+    "male": 1613930,
+    "female": 1102573,
+    "salaryMale": 52853,
+    "salaryFemale": 37892,
+    "timeMale": 183.4,
+    "timeFemale": 179.6,
+    "hourMale": 288.1842966,
+    "hourFemale": 210.9799555
+  },
+  {
+    "work": "不動產業",
+    "male": 58244,
+    "female": 58904,
+    "salaryMale": 42268,
+    "salaryFemale": 42433,
+    "timeMale": 178.6,
+    "timeFemale": 175.8,
+    "hourMale": 236.6629339,
+    "hourFemale": 241.370876
+  },
+  {
+    "work": "營造業",
+    "male": 386161,
+    "female": 74521,
+    "salaryMale": 45323,
+    "salaryFemale": 33104,
+    "timeMale": 172.8,
+    "timeFemale": 168.9,
+    "hourMale": 262.2858796,
+    "hourFemale": 195.9976317
+  },
+  {
+    "work": "住宿服務業",
+    "male": 29496,
+    "female": 39141,
+    "salaryMale": 41353,
+    "salaryFemale": 32215,
+    "timeMale": 172,
+    "timeFemale": 174.6,
+    "hourMale": 240.4244186,
+    "hourFemale": 184.5074456
+  },
+  {
+    "work": "藝術、娛樂及休閒服務業",
+    "male": 28482,
+    "female": 27058,
+    "salaryMale": 43613,
+    "salaryFemale": 28366,
+    "timeMale": 178.7,
+    "timeFemale": 176.6,
+    "hourMale": 244.0570789,
+    "hourFemale": 160.6228766
+  },
+  {
+    "work": "教育服務業",
+    "male": 22834,
+    "female": 50439,
+    "salaryMale": 27045,
+    "salaryFemale": 23060,
+    "timeMale": 124.1,
+    "timeFemale": 136.8,
+    "hourMale": 217.9290894,
+    "hourFemale": 168.5672515
+  },
+  {
+    "work": "支援服務業",
+    "male": 171299,
+    "female": 170253,
+    "salaryMale": 35731,
+    "salaryFemale": 35610,
+    "timeMale": 198.6,
+    "timeFemale": 174.4,
+    "hourMale": 179.9144008,
+    "hourFemale": 204.1857798
+  },
+  {
+    "work": "其他服務業",
+    "male": 36357,
+    "female": 50024,
+    "salaryMale": 39607,
+    "salaryFemale": 30833,
+    "timeMale": 185,
+    "timeFemale": 192.7,
+    "hourMale": 214.0918919,
+    "hourFemale": 160.0051894
+  }
+]
