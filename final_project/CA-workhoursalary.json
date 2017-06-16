@@ -2,1088 +2,816 @@
   {
     "Year": 98,
     "work": "礦業及土石採取業",
-    "salaryMale": 54430,
-    "salaryFemale": 30762,
     "timeMale": 183.4,
     "timeFemale": 176.9
   },
   {
     "Year": 98,
     "work": "製造業",
-    "salaryMale": 44437,
-    "salaryFemale": 31341,
     "timeMale": 180.3,
     "timeFemale": 177.6
   },
   {
     "Year": 98,
     "work": "電力及燃氣供應業",
-    "salaryMale": 99436,
-    "salaryFemale": 75109,
     "timeMale": 172.9,
     "timeFemale": 168.8
   },
   {
     "Year": 98,
     "work": "用水供應及污染整治業",
-    "salaryMale": 45062,
-    "salaryFemale": 40863,
     "timeMale": 184.5,
     "timeFemale": 178.1
   },
   {
     "Year": 98,
     "work": "營造業",
-    "salaryMale": 42677,
-    "salaryFemale": 30874,
     "timeMale": 175.7,
     "timeFemale": 169.9
   },
   {
     "Year": 98,
     "work": "批發及零售業",
-    "salaryMale": 43301,
-    "salaryFemale": 36977,
     "timeMale": 176.4,
     "timeFemale": 175.4
   },
   {
     "Year": 98,
     "work": "運輸及倉儲業",
-    "salaryMale": 50269,
-    "salaryFemale": 42040,
     "timeMale": 183.6,
     "timeFemale": 172.7
   },
   {
     "Year": 98,
     "work": "住宿及餐飲業",
-    "salaryMale": 29510,
-    "salaryFemale": 25481,
     "timeMale": 170.6,
     "timeFemale": 169
   },
   {
     "Year": 98,
     "work": "資訊及通訊傳播業",
-    "salaryMale": 66948,
-    "salaryFemale": 55899,
     "timeMale": 169.4,
     "timeFemale": 168.5
   },
   {
     "Year": 98,
     "work": "金融及保險業",
-    "salaryMale": 75950,
-    "salaryFemale": 62695,
     "timeMale": 168.5,
     "timeFemale": 167.7
   },
   {
     "Year": 98,
     "work": "不動產業",
-    "salaryMale": 40968,
-    "salaryFemale": 36274,
     "timeMale": 183.8,
     "timeFemale": 179.7
   },
   {
     "Year": 98,
     "work": "專業、科學及技術服務業",
-    "salaryMale": 54288,
-    "salaryFemale": 44959,
     "timeMale": 174.5,
     "timeFemale": 173.1
   },
   {
     "Year": 98,
     "work": "支援服務業",
-    "salaryMale": 32119,
-    "salaryFemale": 30969,
     "timeMale": 196.9,
     "timeFemale": 177.9
   },
   {
     "Year": 98,
     "work": "教育服務業",
-    "salaryMale": 25119,
-    "salaryFemale": 21074,
     "timeMale": 138.5,
     "timeFemale": 141.9
   },
   {
     "Year": 98,
     "work": "醫療保健服務業",
-    "salaryMale": 95989,
-    "salaryFemale": 48000,
     "timeMale": 173.3,
     "timeFemale": 173.7
   },
   {
     "Year": 98,
     "work": "藝術、娛樂及休閒服務業",
-    "salaryMale": 37461,
-    "salaryFemale": 24653,
     "timeMale": 183.2,
     "timeFemale": 184.9
   },
   {
     "Year": 98,
     "work": "其他服務業",
-    "salaryMale": 34211,
-    "salaryFemale": 26780,
     "timeMale": 184.6,
     "timeFemale": 202.1
   },
   {
     "Year": 99,
     "work": "礦業及土石採取業",
-    "salaryMale": 56872,
-    "salaryFemale": 34940,
     "timeMale": 187,
     "timeFemale": 177.2
   },
   {
     "Year": 99,
     "work": "製造業",
-    "salaryMale": 48012,
-    "salaryFemale": 33965,
     "timeMale": 190.5,
     "timeFemale": 186.7
   },
   {
     "Year": 99,
     "work": "電力及燃氣供應業",
-    "salaryMale": 99134,
-    "salaryFemale": 79061,
     "timeMale": 173.7,
     "timeFemale": 170.1
   },
   {
     "Year": 99,
     "work": "用水供應及污染整治業",
-    "salaryMale": 45760,
-    "salaryFemale": 42961,
     "timeMale": 184.5,
     "timeFemale": 176.1
   },
   {
     "Year": 99,
     "work": "營造業",
-    "salaryMale": 43682,
-    "salaryFemale": 30244,
     "timeMale": 177.9,
     "timeFemale": 172.8
   },
   {
     "Year": 99,
     "work": "批發及零售業",
-    "salaryMale": 44805,
-    "salaryFemale": 38879,
     "timeMale": 176.5,
     "timeFemale": 176
   },
   {
     "Year": 99,
     "work": "運輸及倉儲業",
-    "salaryMale": 50968,
-    "salaryFemale": 43963,
     "timeMale": 185.1,
     "timeFemale": 173.2
   },
   {
     "Year": 99,
     "work": "住宿及餐飲業",
-    "salaryMale": 30523,
-    "salaryFemale": 25838,
     "timeMale": 173.1,
     "timeFemale": 170.7
   },
   {
     "Year": 99,
     "work": "資訊及通訊傳播業",
-    "salaryMale": 69756,
-    "salaryFemale": 57830,
     "timeMale": 170.5,
     "timeFemale": 169.4
   },
   {
     "Year": 99,
     "work": "金融及保險業",
-    "salaryMale": 83495,
-    "salaryFemale": 68450,
     "timeMale": 169.2,
     "timeFemale": 168.6
   },
   {
     "Year": 99,
     "work": "不動產業",
-    "salaryMale": 42465,
-    "salaryFemale": 39465,
     "timeMale": 182.3,
     "timeFemale": 178.3
   },
   {
     "Year": 99,
     "work": "專業、科學及技術服務業",
-    "salaryMale": 57092,
-    "salaryFemale": 48191,
     "timeMale": 176.1,
     "timeFemale": 173.6
   },
   {
     "Year": 99,
     "work": "支援服務業",
-    "salaryMale": 32981,
-    "salaryFemale": 31598,
     "timeMale": 201.9,
     "timeFemale": 182.6
   },
   {
     "Year": 99,
     "work": "教育服務業",
-    "salaryMale": 25267,
-    "salaryFemale": 21325,
     "timeMale": 137.9,
     "timeFemale": 139.5
   },
   {
     "Year": 99,
     "work": "醫療保健服務業",
-    "salaryMale": 94984,
-    "salaryFemale": 48541,
     "timeMale": 175,
     "timeFemale": 175
   },
   {
     "Year": 99,
     "work": "藝術、娛樂及休閒服務業",
-    "salaryMale": 38918,
-    "salaryFemale": 25990,
     "timeMale": 180.2,
     "timeFemale": 181.9
   },
   {
     "Year": 99,
     "work": "其他服務業",
-    "salaryMale": 36153,
-    "salaryFemale": 27320,
     "timeMale": 186.6,
     "timeFemale": 202
   },
   {
     "Year": 100,
     "work": "礦業及土石採取業",
-    "salaryMale": 57731,
-    "salaryFemale": 38012,
     "timeMale": 182.4,
     "timeFemale": 177.7
   },
   {
     "Year": 100,
     "work": "製造業",
-    "salaryMale": 49289,
-    "salaryFemale": 34651,
     "timeMale": 187.2,
     "timeFemale": 182.2
   },
   {
     "Year": 100,
     "work": "電力及燃氣供應業",
-    "salaryMale": 98058,
-    "salaryFemale": 77726,
     "timeMale": 171.1,
     "timeFemale": 167.8
   },
   {
     "Year": 100,
     "work": "用水供應及污染整治業",
-    "salaryMale": 46398,
-    "salaryFemale": 43940,
     "timeMale": 180.1,
     "timeFemale": 174.1
   },
   {
     "Year": 100,
     "work": "營造業",
-    "salaryMale": 45009,
-    "salaryFemale": 30825,
     "timeMale": 178.7,
     "timeFemale": 175.5
   },
   {
     "Year": 100,
     "work": "批發及零售業",
-    "salaryMale": 45904,
-    "salaryFemale": 39410,
     "timeMale": 174.6,
     "timeFemale": 173.5
   },
   {
     "Year": 100,
     "work": "運輸及倉儲業",
-    "salaryMale": 52260,
-    "salaryFemale": 45281,
     "timeMale": 182.6,
     "timeFemale": 171.4
   },
   {
     "Year": 100,
     "work": "住宿及餐飲業",
-    "salaryMale": 32078,
-    "salaryFemale": 27988,
     "timeMale": 168.5,
     "timeFemale": 169.4
   },
   {
     "Year": 100,
     "work": "資訊及通訊傳播業",
-    "salaryMale": 72177,
-    "salaryFemale": 59490,
     "timeMale": 168.4,
     "timeFemale": 167.6
   },
   {
     "Year": 100,
     "work": "金融及保險業",
-    "salaryMale": 87673,
-    "salaryFemale": 70230,
     "timeMale": 166.4,
     "timeFemale": 165.6
   },
   {
     "Year": 100,
     "work": "不動產業",
-    "salaryMale": 42324,
-    "salaryFemale": 41573,
     "timeMale": 182.6,
     "timeFemale": 176.1
   },
   {
     "Year": 100,
     "work": "專業、科學及技術服務業",
-    "salaryMale": 60194,
-    "salaryFemale": 49551,
     "timeMale": 174.9,
     "timeFemale": 170.6
   },
   {
     "Year": 100,
     "work": "支援服務業",
-    "salaryMale": 33329,
-    "salaryFemale": 32669,
     "timeMale": 202.8,
     "timeFemale": 181.9
   },
   {
     "Year": 100,
     "work": "教育服務業",
-    "salaryMale": 25106,
-    "salaryFemale": 21278,
     "timeMale": 131.9,
     "timeFemale": 136.5
   },
   {
     "Year": 100,
     "work": "醫療保健服務業",
-    "salaryMale": 97083,
-    "salaryFemale": 50584,
     "timeMale": 173.4,
     "timeFemale": 174
   },
   {
     "Year": 100,
     "work": "藝術、娛樂及休閒服務業",
-    "salaryMale": 39283,
-    "salaryFemale": 26799,
     "timeMale": 181.3,
     "timeFemale": 182.8
   },
   {
     "Year": 100,
     "work": "其他服務業",
-    "salaryMale": 37727,
-    "salaryFemale": 28970,
     "timeMale": 188.8,
     "timeFemale": 202.3
   },
   {
     "Year": 101,
     "work": "礦業及土石採取業",
-    "salaryMale": 56440,
-    "salaryFemale": 37519,
     "timeMale": 183.6,
     "timeFemale": 179.3
   },
   {
     "Year": 101,
     "work": "製造業",
-    "salaryMale": 49404,
-    "salaryFemale": 35357,
     "timeMale": 185.6,
     "timeFemale": 181.5
   },
   {
     "Year": 101,
     "work": "電力及燃氣供應業",
-    "salaryMale": 95885,
-    "salaryFemale": 73552,
     "timeMale": 177.6,
     "timeFemale": 169.6
   },
   {
     "Year": 101,
     "work": "用水供應及污染整治業",
-    "salaryMale": 44423,
-    "salaryFemale": 41297,
     "timeMale": 179.7,
     "timeFemale": 175.5
   },
   {
     "Year": 101,
     "work": "營造業",
-    "salaryMale": 45030,
-    "salaryFemale": 30697,
     "timeMale": 178.8,
     "timeFemale": 173.2
   },
   {
     "Year": 101,
     "work": "批發及零售業",
-    "salaryMale": 44946,
-    "salaryFemale": 38906,
     "timeMale": 174.3,
     "timeFemale": 172.3
   },
   {
     "Year": 101,
     "work": "運輸及倉儲業",
-    "salaryMale": 52418,
-    "salaryFemale": 44991,
     "timeMale": 184.9,
     "timeFemale": 172.6
   },
   {
     "Year": 101,
     "work": "住宿及餐飲業",
-    "salaryMale": 32474,
-    "salaryFemale": 28401,
     "timeMale": 169.6,
     "timeFemale": 172.3
   },
   {
     "Year": 101,
     "work": "資訊及通訊傳播業",
-    "salaryMale": 73090,
-    "salaryFemale": 59999,
     "timeMale": 168.8,
     "timeFemale": 168.4
   },
   {
     "Year": 101,
     "work": "金融及保險業",
-    "salaryMale": 87651,
-    "salaryFemale": 71997,
     "timeMale": 168.1,
     "timeFemale": 167.1
   },
   {
     "Year": 101,
     "work": "不動產業",
-    "salaryMale": 39311,
-    "salaryFemale": 39876,
     "timeMale": 182.5,
     "timeFemale": 178.5
   },
   {
     "Year": 101,
     "work": "專業、科學及技術服務業",
-    "salaryMale": 61960,
-    "salaryFemale": 49953,
     "timeMale": 174.9,
     "timeFemale": 172.2
   },
   {
     "Year": 101,
     "work": "支援服務業",
-    "salaryMale": 33479,
-    "salaryFemale": 33803,
     "timeMale": 203.6,
     "timeFemale": 180.9
   },
   {
     "Year": 101,
     "work": "教育服務業",
-    "salaryMale": 25556,
-    "salaryFemale": 21645,
     "timeMale": 122.1,
     "timeFemale": 136.6
   },
   {
     "Year": 101,
     "work": "醫療保健服務業",
-    "salaryMale": 96682,
-    "salaryFemale": 50970,
     "timeMale": 170.4,
     "timeFemale": 175.8
   },
   {
     "Year": 101,
     "work": "藝術、娛樂及休閒服務業",
-    "salaryMale": 41965,
-    "salaryFemale": 28328,
     "timeMale": 183.3,
     "timeFemale": 182.8
   },
   {
     "Year": 101,
     "work": "其他服務業",
-    "salaryMale": 37477,
-    "salaryFemale": 29318,
     "timeMale": 191,
     "timeFemale": 200.7
   },
   {
     "Year": 102,
     "work": "礦業及土石採取業",
-    "salaryMale": 57708,
-    "salaryFemale": 41831,
     "timeMale": 182.6,
     "timeFemale": 177.3
   },
   {
     "Year": 102,
     "work": "製造業",
-    "salaryMale": 49425,
-    "salaryFemale": 35624,
     "timeMale": 185.5,
     "timeFemale": 181.5
   },
   {
     "Year": 102,
     "work": "電力及燃氣供應業",
-    "salaryMale": 91533,
-    "salaryFemale": 72173,
     "timeMale": 175.8,
     "timeFemale": 167
   },
   {
     "Year": 102,
     "work": "用水供應及污染整治業",
-    "salaryMale": 44779,
-    "salaryFemale": 42045,
     "timeMale": 180.3,
     "timeFemale": 175
   },
   {
     "Year": 102,
     "work": "營造業",
-    "salaryMale": 44879,
-    "salaryFemale": 30539,
     "timeMale": 175.5,
     "timeFemale": 171.3
   },
   {
     "Year": 102,
     "work": "批發及零售業",
-    "salaryMale": 45590,
-    "salaryFemale": 39212,
     "timeMale": 172.9,
     "timeFemale": 170.3
   },
   {
     "Year": 102,
     "work": "運輸及倉儲業",
-    "salaryMale": 52123,
-    "salaryFemale": 44498,
     "timeMale": 182.6,
     "timeFemale": 171
   },
   {
     "Year": 102,
     "work": "住宿及餐飲業",
-    "salaryMale": 33108,
-    "salaryFemale": 28598,
     "timeMale": 168.8,
     "timeFemale": 170.6
   },
   {
     "Year": 102,
     "work": "資訊及通訊傳播業",
-    "salaryMale": 71451,
-    "salaryFemale": 58862,
     "timeMale": 166.7,
     "timeFemale": 166
   },
   {
     "Year": 102,
     "work": "金融及保險業",
-    "salaryMale": 86863,
-    "salaryFemale": 72380,
     "timeMale": 164.4,
     "timeFemale": 164.7
   },
   {
     "Year": 102,
     "work": "不動產業",
-    "salaryMale": 39601,
-    "salaryFemale": 41039,
     "timeMale": 182.1,
     "timeFemale": 177
   },
   {
     "Year": 102,
     "work": "專業、科學及技術服務業",
-    "salaryMale": 60483,
-    "salaryFemale": 49679,
     "timeMale": 174.4,
     "timeFemale": 169.2
   },
   {
     "Year": 102,
     "work": "支援服務業",
-    "salaryMale": 34145,
-    "salaryFemale": 33540,
     "timeMale": 200.7,
     "timeFemale": 175.4
   },
   {
     "Year": 102,
     "work": "教育服務業",
-    "salaryMale": 26042,
-    "salaryFemale": 21585,
     "timeMale": 119.9,
     "timeFemale": 137
   },
   {
     "Year": 102,
     "work": "醫療保健服務業",
-    "salaryMale": 95665,
-    "salaryFemale": 50764,
     "timeMale": 170.1,
     "timeFemale": 174
   },
   {
     "Year": 102,
     "work": "藝術、娛樂及休閒服務業",
-    "salaryMale": 42528,
-    "salaryFemale": 28794,
     "timeMale": 179,
     "timeFemale": 182.5
   },
   {
     "Year": 102,
     "work": "其他服務業",
-    "salaryMale": 38405,
-    "salaryFemale": 29592,
     "timeMale": 190,
     "timeFemale": 199.7
   },
   {
     "Year": 103,
     "work": "礦業及土石採取業",
-    "salaryMale": 57463,
-    "salaryFemale": 41204,
     "timeMale": 181.9,
     "timeFemale": 176.5
   },
   {
     "Year": 103,
     "work": "製造業",
-    "salaryMale": 50974,
-    "salaryFemale": 36746,
     "timeMale": 186.1,
     "timeFemale": 182.8
   },
   {
     "Year": 103,
     "work": "電力及燃氣供應業",
-    "salaryMale": 96809,
-    "salaryFemale": 76904,
     "timeMale": 177.2,
     "timeFemale": 168.3
   },
   {
     "Year": 103,
     "work": "用水供應及污染整治業",
-    "salaryMale": 45221,
-    "salaryFemale": 43508,
     "timeMale": 180.7,
     "timeFemale": 175
   },
   {
     "Year": 103,
     "work": "營造業",
-    "salaryMale": 45364,
-    "salaryFemale": 32255,
     "timeMale": 176.7,
     "timeFemale": 172.8
   },
   {
     "Year": 103,
     "work": "批發及零售業",
-    "salaryMale": 47798,
-    "salaryFemale": 41403,
     "timeMale": 173.8,
     "timeFemale": 172.2
   },
   {
     "Year": 103,
     "work": "運輸及倉儲業",
-    "salaryMale": 52407,
-    "salaryFemale": 44799,
     "timeMale": 182.8,
     "timeFemale": 172.3
   },
   {
     "Year": 103,
     "work": "住宿及餐飲業",
-    "salaryMale": 33925,
-    "salaryFemale": 30119,
     "timeMale": 169.5,
     "timeFemale": 168.9
   },
   {
     "Year": 103,
     "work": "資訊及通訊傳播業",
-    "salaryMale": 72727,
-    "salaryFemale": 59153,
     "timeMale": 166.9,
     "timeFemale": 165.4
   },
   {
     "Year": 103,
     "work": "金融及保險業",
-    "salaryMale": 90433,
-    "salaryFemale": 78547,
     "timeMale": 165.9,
     "timeFemale": 165.5
   },
   {
     "Year": 103,
     "work": "不動產業",
-    "salaryMale": 42984,
-    "salaryFemale": 42841,
     "timeMale": 182,
     "timeFemale": 177.5
   },
   {
     "Year": 103,
     "work": "專業、科學及技術服務業",
-    "salaryMale": 62663,
-    "salaryFemale": 51364,
     "timeMale": 176.2,
     "timeFemale": 170.9
   },
   {
     "Year": 103,
     "work": "支援服務業",
-    "salaryMale": 35000,
-    "salaryFemale": 34818,
     "timeMale": 201.8,
     "timeFemale": 176.2
   },
   {
     "Year": 103,
     "work": "教育服務業",
-    "salaryMale": 27422,
-    "salaryFemale": 22747,
     "timeMale": 124.5,
     "timeFemale": 139
   },
   {
     "Year": 103,
     "work": "醫療保健服務業",
-    "salaryMale": 96517,
-    "salaryFemale": 52560,
     "timeMale": 172.1,
     "timeFemale": 172.9
   },
   {
     "Year": 103,
     "work": "藝術、娛樂及休閒服務業",
-    "salaryMale": 42156,
-    "salaryFemale": 28898,
     "timeMale": 178.6,
     "timeFemale": 178.6
   },
   {
     "Year": 103,
     "work": "其他服務業",
-    "salaryMale": 40386,
-    "salaryFemale": 31146,
     "timeMale": 188.4,
     "timeFemale": 196.6
   },
   {
     "Year": 104,
     "work": "礦業及土石採取業",
-    "salaryMale": 56391,
-    "salaryFemale": 42176,
     "timeMale": 178.6,
     "timeFemale": 175.5
   },
   {
     "Year": 104,
     "work": "製造業",
-    "salaryMale": 52853,
-    "salaryFemale": 37892,
     "timeMale": 183.4,
     "timeFemale": 179.6
   },
   {
     "Year": 104,
     "work": "電力及燃氣供應業",
-    "salaryMale": 99346,
-    "salaryFemale": 78969,
     "timeMale": 176.2,
     "timeFemale": 166.8
   },
   {
     "Year": 104,
     "work": "用水供應及污染整治業",
-    "salaryMale": 44385,
-    "salaryFemale": 43515,
     "timeMale": 177.1,
     "timeFemale": 170.3
   },
   {
     "Year": 104,
     "work": "營造業",
-    "salaryMale": 45323,
-    "salaryFemale": 33104,
     "timeMale": 172.8,
     "timeFemale": 168.9
   },
   {
     "Year": 104,
     "work": "批發及零售業",
-    "salaryMale": 48437,
-    "salaryFemale": 42845,
     "timeMale": 171.6,
     "timeFemale": 170.2
   },
   {
     "Year": 104,
     "work": "運輸及倉儲業",
-    "salaryMale": 53841,
-    "salaryFemale": 45660,
     "timeMale": 181.3,
     "timeFemale": 171.1
   },
   {
     "Year": 104,
     "work": "住宿及餐飲業",
-    "salaryMale": 34870,
-    "salaryFemale": 30894,
     "timeMale": 168.6,
     "timeFemale": 166.1
   },
   {
     "Year": 104,
     "work": "資訊及通訊傳播業",
-    "salaryMale": 72677,
-    "salaryFemale": 59576,
     "timeMale": 166,
     "timeFemale": 164.2
   },
   {
     "Year": 104,
     "work": "金融及保險業",
-    "salaryMale": 93015,
-    "salaryFemale": 79552,
     "timeMale": 162.4,
     "timeFemale": 162.4
   },
   {
     "Year": 104,
     "work": "不動產業",
-    "salaryMale": 42268,
-    "salaryFemale": 42433,
     "timeMale": 178.6,
     "timeFemale": 175.8
   },
   {
     "Year": 104,
     "work": "專業、科學及技術服務業",
-    "salaryMale": 63364,
-    "salaryFemale": 52489,
     "timeMale": 172.3,
     "timeFemale": 168.6
   },
   {
     "Year": 104,
     "work": "支援服務業",
-    "salaryMale": 35731,
-    "salaryFemale": 35610,
     "timeMale": 198.6,
     "timeFemale": 174.4
   },
   {
     "Year": 104,
     "work": "教育服務業",
-    "salaryMale": 27045,
-    "salaryFemale": 23060,
     "timeMale": 124.1,
     "timeFemale": 136.8
   },
   {
     "Year": 104,
     "work": "醫療保健服務業",
-    "salaryMale": 99187,
-    "salaryFemale": 55631,
     "timeMale": 171.1,
     "timeFemale": 172.5
   },
   {
     "Year": 104,
     "work": "藝術、娛樂及休閒服務業",
-    "salaryMale": 43613,
-    "salaryFemale": 28366,
     "timeMale": 178.7,
     "timeFemale": 176.6
   },
   {
     "Year": 104,
     "work": "其他服務業",
-    "salaryMale": 39607,
-    "salaryFemale": 30833,
     "timeMale": 185,
     "timeFemale": 192.7
   },
   {
     "Year": 105,
     "work": "礦業及土石採取業",
-    "salaryMale": 54753,
-    "salaryFemale": 40900,
     "timeMale": 173.7,
     "timeFemale": 169.7
   },
   {
     "Year": 105,
     "work": "製造業",
-    "salaryMale": 53227,
-    "salaryFemale": 38500,
     "timeMale": 176.6,
     "timeFemale": 172.8
   },
   {
     "Year": 105,
     "work": "電力及燃氣供應業",
-    "salaryMale": 97157,
-    "salaryFemale": 77556,
     "timeMale": 173.5,
     "timeFemale": 163.5
   },
   {
     "Year": 105,
     "work": "用水供應及污染整治業",
-    "salaryMale": 43053,
-    "salaryFemale": 42156,
     "timeMale": 170.7,
     "timeFemale": 161.7
   },
   {
     "Year": 105,
     "work": "營造業",
-    "salaryMale": 44675,
-    "salaryFemale": 33367,
     "timeMale": 166.5,
     "timeFemale": 165.4
   },
   {
     "Year": 105,
     "work": "批發及零售業",
-    "salaryMale": 48325,
-    "salaryFemale": 42825,
     "timeMale": 165.5,
     "timeFemale": 163.6
   },
   {
     "Year": 105,
     "work": "運輸及倉儲業",
-    "salaryMale": 54864,
-    "salaryFemale": 46516,
     "timeMale": 175.3,
     "timeFemale": 166.4
   },
   {
     "Year": 105,
     "work": "住宿及餐飲業",
-    "salaryMale": 34745,
-    "salaryFemale": 31020,
     "timeMale": 164.9,
     "timeFemale": 162.5
   },
   {
     "Year": 105,
     "work": "資訊及通訊傳播業",
-    "salaryMale": 73885,
-    "salaryFemale": 60826,
     "timeMale": 161.7,
     "timeFemale": 160.5
   },
   {
     "Year": 105,
     "work": "金融及保險業",
-    "salaryMale": 92136,
-    "salaryFemale": 81258,
     "timeMale": 163.2,
     "timeFemale": 162.6
   },
   {
     "Year": 105,
     "work": "不動產業",
-    "salaryMale": 40775,
-    "salaryFemale": 41866,
     "timeMale": 170,
     "timeFemale": 167.2
   },
   {
     "Year": 105,
     "work": "專業、科學及技術服務業",
-    "salaryMale": 64675,
-    "salaryFemale": 52023,
     "timeMale": 167.1,
     "timeFemale": 163.6
   },
   {
     "Year": 105,
     "work": "支援服務業",
-    "salaryMale": 35997,
-    "salaryFemale": 36049,
     "timeMale": 194.3,
     "timeFemale": 168.7
   },
   {
     "Year": 105,
     "work": "教育服務業",
-    "salaryMale": 27884,
-    "salaryFemale": 23464,
     "timeMale": 126.4,
     "timeFemale": 135.6
   },
   {
     "Year": 105,
     "work": "醫療保健服務業",
-    "salaryMale": 102175,
-    "salaryFemale": 56406,
     "timeMale": 162.7,
     "timeFemale": 167.1
   },
   {
     "Year": 105,
     "work": "藝術、娛樂及休閒服務業",
-    "salaryMale": 44482,
-    "salaryFemale": 28709,
     "timeMale": 171.8,
     "timeFemale": 167.4
   },
   {
     "Year": 105,
     "work": "其他服務業",
-    "salaryMale": 38603,
-    "salaryFemale": 30876,
     "timeMale": 178.3,
     "timeFemale": 186.4
   }
