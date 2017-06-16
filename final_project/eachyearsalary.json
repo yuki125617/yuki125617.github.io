@@ -1,7 +1,7 @@
 [
   {
     "Year": 98,
-    "work": "ç¤¦æ¥­åŠåœŸçŸ³æ¡å–æ¥­",
+    "work": "Äq·~¤Î¤g¥Û±Ä¨ú·~",
     "salaryMale": 54430,
     "salaryFemale": 30762,
     "timeMale": 183.4,
@@ -9,7 +9,7 @@
   },
   {
     "Year": 98,
-    "work": "è£½é€ æ¥­",
+    "work": "»s³y·~",
     "salaryMale": 44437,
     "salaryFemale": 31341,
     "timeMale": 180.3,
@@ -17,7 +17,7 @@
   },
   {
     "Year": 98,
-    "work": "é›»åŠ›åŠç‡ƒæ°£ä¾›æ‡‰æ¥­",
+    "work": "¹q¤O¤Î¿U®ğ¨ÑÀ³·~",
     "salaryMale": 99436,
     "salaryFemale": 75109,
     "timeMale": 172.9,
@@ -25,7 +25,7 @@
   },
   {
     "Year": 98,
-    "work": "ç”¨æ°´ä¾›æ‡‰åŠæ±¡æŸ“æ•´æ²»æ¥­",
+    "work": "¥Î¤ô¨ÑÀ³¤Î¦Ã¬V¾ãªv·~",
     "salaryMale": 45062,
     "salaryFemale": 40863,
     "timeMale": 184.5,
@@ -33,7 +33,7 @@
   },
   {
     "Year": 98,
-    "work": "ç‡Ÿé€ æ¥­",
+    "work": "Àç³y·~",
     "salaryMale": 42677,
     "salaryFemale": 30874,
     "timeMale": 175.7,
@@ -41,7 +41,7 @@
   },
   {
     "Year": 98,
-    "work": "æ‰¹ç™¼åŠé›¶å”®æ¥­",
+    "work": "§åµo¤Î¹s°â·~",
     "salaryMale": 43301,
     "salaryFemale": 36977,
     "timeMale": 176.4,
@@ -49,7 +49,7 @@
   },
   {
     "Year": 98,
-    "work": "é‹è¼¸åŠå€‰å„²æ¥­",
+    "work": "¹B¿é¤Î­ÜÀx·~",
     "salaryMale": 50269,
     "salaryFemale": 42040,
     "timeMale": 183.6,
@@ -57,7 +57,7 @@
   },
   {
     "Year": 98,
-    "work": "ä½å®¿åŠé¤é£²æ¥­",
+    "work": "¦í±J¤ÎÀ\¶¼·~",
     "salaryMale": 29510,
     "salaryFemale": 25481,
     "timeMale": 170.6,
@@ -65,7 +65,7 @@
   },
   {
     "Year": 98,
-    "work": "è³‡è¨ŠåŠé€šè¨Šå‚³æ’­æ¥­",
+    "work": "¸ê°T¤Î³q°T¶Ç¼½·~",
     "salaryMale": 66948,
     "salaryFemale": 55899,
     "timeMale": 169.4,
@@ -73,7 +73,7 @@
   },
   {
     "Year": 98,
-    "work": "é‡‘èåŠä¿éšªæ¥­",
+    "work": "ª÷¿Ä¤Î«OÀI·~",
     "salaryMale": 75950,
     "salaryFemale": 62695,
     "timeMale": 168.5,
@@ -81,7 +81,7 @@
   },
   {
     "Year": 98,
-    "work": "ä¸å‹•ç”¢æ¥­",
+    "work": "¤£°Ê²£·~",
     "salaryMale": 40968,
     "salaryFemale": 36274,
     "timeMale": 183.8,
@@ -89,7 +89,7 @@
   },
   {
     "Year": 98,
-    "work": "å°ˆæ¥­ã€ç§‘å­¸åŠæŠ€è¡“æœå‹™æ¥­",
+    "work": "±M·~¡B¬ì¾Ç¤Î§Ş³NªA°È·~",
     "salaryMale": 54288,
     "salaryFemale": 44959,
     "timeMale": 174.5,
@@ -97,7 +97,7 @@
   },
   {
     "Year": 98,
-    "work": "æ”¯æ´æœå‹™æ¥­",
+    "work": "¤ä´©ªA°È·~",
     "salaryMale": 32119,
     "salaryFemale": 30969,
     "timeMale": 196.9,
@@ -105,7 +105,7 @@
   },
   {
     "Year": 98,
-    "work": "æ•™è‚²æœå‹™æ¥­",
+    "work": "±Ğ¨|ªA°È·~",
     "salaryMale": 25119,
     "salaryFemale": 21074,
     "timeMale": 138.5,
@@ -113,7 +113,7 @@
   },
   {
     "Year": 98,
-    "work": "é†«ç™‚ä¿å¥æœå‹™æ¥­",
+    "work": "ÂåÀø«O°·ªA°È·~",
     "salaryMale": 95989,
     "salaryFemale": 48000,
     "timeMale": 173.3,
@@ -121,7 +121,7 @@
   },
   {
     "Year": 98,
-    "work": "è—è¡“ã€å¨›æ¨‚åŠä¼‘é–’æœå‹™æ¥­",
+    "work": "ÃÀ³N¡B®T¼Ö¤Î¥ğ¶¢ªA°È·~",
     "salaryMale": 37461,
     "salaryFemale": 24653,
     "timeMale": 183.2,
@@ -129,7 +129,7 @@
   },
   {
     "Year": 98,
-    "work": "å…¶ä»–æœå‹™æ¥­",
+    "work": "¨ä¥LªA°È·~",
     "salaryMale": 34211,
     "salaryFemale": 26780,
     "timeMale": 184.6,
@@ -137,7 +137,7 @@
   },
   {
     "Year": 99,
-    "work": "ç¤¦æ¥­åŠåœŸçŸ³æ¡å–æ¥­",
+    "work": "Äq·~¤Î¤g¥Û±Ä¨ú·~",
     "salaryMale": 56872,
     "salaryFemale": 34940,
     "timeMale": 187,
@@ -145,7 +145,7 @@
   },
   {
     "Year": 99,
-    "work": "è£½é€ æ¥­",
+    "work": "»s³y·~",
     "salaryMale": 48012,
     "salaryFemale": 33965,
     "timeMale": 190.5,
@@ -153,7 +153,7 @@
   },
   {
     "Year": 99,
-    "work": "é›»åŠ›åŠç‡ƒæ°£ä¾›æ‡‰æ¥­",
+    "work": "¹q¤O¤Î¿U®ğ¨ÑÀ³·~",
     "salaryMale": 99134,
     "salaryFemale": 79061,
     "timeMale": 173.7,
@@ -161,7 +161,7 @@
   },
   {
     "Year": 99,
-    "work": "ç”¨æ°´ä¾›æ‡‰åŠæ±¡æŸ“æ•´æ²»æ¥­",
+    "work": "¥Î¤ô¨ÑÀ³¤Î¦Ã¬V¾ãªv·~",
     "salaryMale": 45760,
     "salaryFemale": 42961,
     "timeMale": 184.5,
@@ -169,7 +169,7 @@
   },
   {
     "Year": 99,
-    "work": "ç‡Ÿé€ æ¥­",
+    "work": "Àç³y·~",
     "salaryMale": 43682,
     "salaryFemale": 30244,
     "timeMale": 177.9,
@@ -177,7 +177,7 @@
   },
   {
     "Year": 99,
-    "work": "æ‰¹ç™¼åŠé›¶å”®æ¥­",
+    "work": "§åµo¤Î¹s°â·~",
     "salaryMale": 44805,
     "salaryFemale": 38879,
     "timeMale": 176.5,
@@ -185,7 +185,7 @@
   },
   {
     "Year": 99,
-    "work": "é‹è¼¸åŠå€‰å„²æ¥­",
+    "work": "¹B¿é¤Î­ÜÀx·~",
     "salaryMale": 50968,
     "salaryFemale": 43963,
     "timeMale": 185.1,
@@ -193,7 +193,7 @@
   },
   {
     "Year": 99,
-    "work": "ä½å®¿åŠé¤é£²æ¥­",
+    "work": "¦í±J¤ÎÀ\¶¼·~",
     "salaryMale": 30523,
     "salaryFemale": 25838,
     "timeMale": 173.1,
@@ -201,7 +201,7 @@
   },
   {
     "Year": 99,
-    "work": "è³‡è¨ŠåŠé€šè¨Šå‚³æ’­æ¥­",
+    "work": "¸ê°T¤Î³q°T¶Ç¼½·~",
     "salaryMale": 69756,
     "salaryFemale": 57830,
     "timeMale": 170.5,
@@ -209,7 +209,7 @@
   },
   {
     "Year": 99,
-    "work": "é‡‘èåŠä¿éšªæ¥­",
+    "work": "ª÷¿Ä¤Î«OÀI·~",
     "salaryMale": 83495,
     "salaryFemale": 68450,
     "timeMale": 169.2,
@@ -217,7 +217,7 @@
   },
   {
     "Year": 99,
-    "work": "ä¸å‹•ç”¢æ¥­",
+    "work": "¤£°Ê²£·~",
     "salaryMale": 42465,
     "salaryFemale": 39465,
     "timeMale": 182.3,
@@ -225,7 +225,7 @@
   },
   {
     "Year": 99,
-    "work": "å°ˆæ¥­ã€ç§‘å­¸åŠæŠ€è¡“æœå‹™æ¥­",
+    "work": "±M·~¡B¬ì¾Ç¤Î§Ş³NªA°È·~",
     "salaryMale": 57092,
     "salaryFemale": 48191,
     "timeMale": 176.1,
@@ -233,7 +233,7 @@
   },
   {
     "Year": 99,
-    "work": "æ”¯æ´æœå‹™æ¥­",
+    "work": "¤ä´©ªA°È·~",
     "salaryMale": 32981,
     "salaryFemale": 31598,
     "timeMale": 201.9,
@@ -241,7 +241,7 @@
   },
   {
     "Year": 99,
-    "work": "æ•™è‚²æœå‹™æ¥­",
+    "work": "±Ğ¨|ªA°È·~",
     "salaryMale": 25267,
     "salaryFemale": 21325,
     "timeMale": 137.9,
@@ -249,7 +249,7 @@
   },
   {
     "Year": 99,
-    "work": "é†«ç™‚ä¿å¥æœå‹™æ¥­",
+    "work": "ÂåÀø«O°·ªA°È·~",
     "salaryMale": 94984,
     "salaryFemale": 48541,
     "timeMale": 175,
@@ -257,7 +257,7 @@
   },
   {
     "Year": 99,
-    "work": "è—è¡“ã€å¨›æ¨‚åŠä¼‘é–’æœå‹™æ¥­",
+    "work": "ÃÀ³N¡B®T¼Ö¤Î¥ğ¶¢ªA°È·~",
     "salaryMale": 38918,
     "salaryFemale": 25990,
     "timeMale": 180.2,
@@ -265,7 +265,7 @@
   },
   {
     "Year": 99,
-    "work": "å…¶ä»–æœå‹™æ¥­",
+    "work": "¨ä¥LªA°È·~",
     "salaryMale": 36153,
     "salaryFemale": 27320,
     "timeMale": 186.6,
@@ -273,7 +273,7 @@
   },
   {
     "Year": 100,
-    "work": "ç¤¦æ¥­åŠåœŸçŸ³æ¡å–æ¥­",
+    "work": "Äq·~¤Î¤g¥Û±Ä¨ú·~",
     "salaryMale": 57731,
     "salaryFemale": 38012,
     "timeMale": 182.4,
@@ -281,7 +281,7 @@
   },
   {
     "Year": 100,
-    "work": "è£½é€ æ¥­",
+    "work": "»s³y·~",
     "salaryMale": 49289,
     "salaryFemale": 34651,
     "timeMale": 187.2,
@@ -289,7 +289,7 @@
   },
   {
     "Year": 100,
-    "work": "é›»åŠ›åŠç‡ƒæ°£ä¾›æ‡‰æ¥­",
+    "work": "¹q¤O¤Î¿U®ğ¨ÑÀ³·~",
     "salaryMale": 98058,
     "salaryFemale": 77726,
     "timeMale": 171.1,
@@ -297,7 +297,7 @@
   },
   {
     "Year": 100,
-    "work": "ç”¨æ°´ä¾›æ‡‰åŠæ±¡æŸ“æ•´æ²»æ¥­",
+    "work": "¥Î¤ô¨ÑÀ³¤Î¦Ã¬V¾ãªv·~",
     "salaryMale": 46398,
     "salaryFemale": 43940,
     "timeMale": 180.1,
@@ -305,7 +305,7 @@
   },
   {
     "Year": 100,
-    "work": "ç‡Ÿé€ æ¥­",
+    "work": "Àç³y·~",
     "salaryMale": 45009,
     "salaryFemale": 30825,
     "timeMale": 178.7,
@@ -313,7 +313,7 @@
   },
   {
     "Year": 100,
-    "work": "æ‰¹ç™¼åŠé›¶å”®æ¥­",
+    "work": "§åµo¤Î¹s°â·~",
     "salaryMale": 45904,
     "salaryFemale": 39410,
     "timeMale": 174.6,
@@ -321,7 +321,7 @@
   },
   {
     "Year": 100,
-    "work": "é‹è¼¸åŠå€‰å„²æ¥­",
+    "work": "¹B¿é¤Î­ÜÀx·~",
     "salaryMale": 52260,
     "salaryFemale": 45281,
     "timeMale": 182.6,
@@ -329,7 +329,7 @@
   },
   {
     "Year": 100,
-    "work": "ä½å®¿åŠé¤é£²æ¥­",
+    "work": "¦í±J¤ÎÀ\¶¼·~",
     "salaryMale": 32078,
     "salaryFemale": 27988,
     "timeMale": 168.5,
@@ -337,7 +337,7 @@
   },
   {
     "Year": 100,
-    "work": "è³‡è¨ŠåŠé€šè¨Šå‚³æ’­æ¥­",
+    "work": "¸ê°T¤Î³q°T¶Ç¼½·~",
     "salaryMale": 72177,
     "salaryFemale": 59490,
     "timeMale": 168.4,
@@ -345,7 +345,7 @@
   },
   {
     "Year": 100,
-    "work": "é‡‘èåŠä¿éšªæ¥­",
+    "work": "ª÷¿Ä¤Î«OÀI·~",
     "salaryMale": 87673,
     "salaryFemale": 70230,
     "timeMale": 166.4,
@@ -353,7 +353,7 @@
   },
   {
     "Year": 100,
-    "work": "ä¸å‹•ç”¢æ¥­",
+    "work": "¤£°Ê²£·~",
     "salaryMale": 42324,
     "salaryFemale": 41573,
     "timeMale": 182.6,
@@ -361,7 +361,7 @@
   },
   {
     "Year": 100,
-    "work": "å°ˆæ¥­ã€ç§‘å­¸åŠæŠ€è¡“æœå‹™æ¥­",
+    "work": "±M·~¡B¬ì¾Ç¤Î§Ş³NªA°È·~",
     "salaryMale": 60194,
     "salaryFemale": 49551,
     "timeMale": 174.9,
@@ -369,7 +369,7 @@
   },
   {
     "Year": 100,
-    "work": "æ”¯æ´æœå‹™æ¥­",
+    "work": "¤ä´©ªA°È·~",
     "salaryMale": 33329,
     "salaryFemale": 32669,
     "timeMale": 202.8,
@@ -377,7 +377,7 @@
   },
   {
     "Year": 100,
-    "work": "æ•™è‚²æœå‹™æ¥­",
+    "work": "±Ğ¨|ªA°È·~",
     "salaryMale": 25106,
     "salaryFemale": 21278,
     "timeMale": 131.9,
@@ -385,7 +385,7 @@
   },
   {
     "Year": 100,
-    "work": "é†«ç™‚ä¿å¥æœå‹™æ¥­",
+    "work": "ÂåÀø«O°·ªA°È·~",
     "salaryMale": 97083,
     "salaryFemale": 50584,
     "timeMale": 173.4,
@@ -393,7 +393,7 @@
   },
   {
     "Year": 100,
-    "work": "è—è¡“ã€å¨›æ¨‚åŠä¼‘é–’æœå‹™æ¥­",
+    "work": "ÃÀ³N¡B®T¼Ö¤Î¥ğ¶¢ªA°È·~",
     "salaryMale": 39283,
     "salaryFemale": 26799,
     "timeMale": 181.3,
@@ -401,7 +401,7 @@
   },
   {
     "Year": 100,
-    "work": "å…¶ä»–æœå‹™æ¥­",
+    "work": "¨ä¥LªA°È·~",
     "salaryMale": 37727,
     "salaryFemale": 28970,
     "timeMale": 188.8,
@@ -409,7 +409,7 @@
   },
   {
     "Year": 101,
-    "work": "ç¤¦æ¥­åŠåœŸçŸ³æ¡å–æ¥­",
+    "work": "Äq·~¤Î¤g¥Û±Ä¨ú·~",
     "salaryMale": 56440,
     "salaryFemale": 37519,
     "timeMale": 183.6,
@@ -417,7 +417,7 @@
   },
   {
     "Year": 101,
-    "work": "è£½é€ æ¥­",
+    "work": "»s³y·~",
     "salaryMale": 49404,
     "salaryFemale": 35357,
     "timeMale": 185.6,
@@ -425,7 +425,7 @@
   },
   {
     "Year": 101,
-    "work": "é›»åŠ›åŠç‡ƒæ°£ä¾›æ‡‰æ¥­",
+    "work": "¹q¤O¤Î¿U®ğ¨ÑÀ³·~",
     "salaryMale": 95885,
     "salaryFemale": 73552,
     "timeMale": 177.6,
@@ -433,7 +433,7 @@
   },
   {
     "Year": 101,
-    "work": "ç”¨æ°´ä¾›æ‡‰åŠæ±¡æŸ“æ•´æ²»æ¥­",
+    "work": "¥Î¤ô¨ÑÀ³¤Î¦Ã¬V¾ãªv·~",
     "salaryMale": 44423,
     "salaryFemale": 41297,
     "timeMale": 179.7,
@@ -441,7 +441,7 @@
   },
   {
     "Year": 101,
-    "work": "ç‡Ÿé€ æ¥­",
+    "work": "Àç³y·~",
     "salaryMale": 45030,
     "salaryFemale": 30697,
     "timeMale": 178.8,
@@ -449,7 +449,7 @@
   },
   {
     "Year": 101,
-    "work": "æ‰¹ç™¼åŠé›¶å”®æ¥­",
+    "work": "§åµo¤Î¹s°â·~",
     "salaryMale": 44946,
     "salaryFemale": 38906,
     "timeMale": 174.3,
@@ -457,7 +457,7 @@
   },
   {
     "Year": 101,
-    "work": "é‹è¼¸åŠå€‰å„²æ¥­",
+    "work": "¹B¿é¤Î­ÜÀx·~",
     "salaryMale": 52418,
     "salaryFemale": 44991,
     "timeMale": 184.9,
@@ -465,7 +465,7 @@
   },
   {
     "Year": 101,
-    "work": "ä½å®¿åŠé¤é£²æ¥­",
+    "work": "¦í±J¤ÎÀ\¶¼·~",
     "salaryMale": 32474,
     "salaryFemale": 28401,
     "timeMale": 169.6,
@@ -473,7 +473,7 @@
   },
   {
     "Year": 101,
-    "work": "è³‡è¨ŠåŠé€šè¨Šå‚³æ’­æ¥­",
+    "work": "¸ê°T¤Î³q°T¶Ç¼½·~",
     "salaryMale": 73090,
     "salaryFemale": 59999,
     "timeMale": 168.8,
@@ -481,7 +481,7 @@
   },
   {
     "Year": 101,
-    "work": "é‡‘èåŠä¿éšªæ¥­",
+    "work": "ª÷¿Ä¤Î«OÀI·~",
     "salaryMale": 87651,
     "salaryFemale": 71997,
     "timeMale": 168.1,
@@ -489,7 +489,7 @@
   },
   {
     "Year": 101,
-    "work": "ä¸å‹•ç”¢æ¥­",
+    "work": "¤£°Ê²£·~",
     "salaryMale": 39311,
     "salaryFemale": 39876,
     "timeMale": 182.5,
@@ -497,7 +497,7 @@
   },
   {
     "Year": 101,
-    "work": "å°ˆæ¥­ã€ç§‘å­¸åŠæŠ€è¡“æœå‹™æ¥­",
+    "work": "±M·~¡B¬ì¾Ç¤Î§Ş³NªA°È·~",
     "salaryMale": 61960,
     "salaryFemale": 49953,
     "timeMale": 174.9,
@@ -505,7 +505,7 @@
   },
   {
     "Year": 101,
-    "work": "æ”¯æ´æœå‹™æ¥­",
+    "work": "¤ä´©ªA°È·~",
     "salaryMale": 33479,
     "salaryFemale": 33803,
     "timeMale": 203.6,
@@ -513,7 +513,7 @@
   },
   {
     "Year": 101,
-    "work": "æ•™è‚²æœå‹™æ¥­",
+    "work": "±Ğ¨|ªA°È·~",
     "salaryMale": 25556,
     "salaryFemale": 21645,
     "timeMale": 122.1,
@@ -521,7 +521,7 @@
   },
   {
     "Year": 101,
-    "work": "é†«ç™‚ä¿å¥æœå‹™æ¥­",
+    "work": "ÂåÀø«O°·ªA°È·~",
     "salaryMale": 96682,
     "salaryFemale": 50970,
     "timeMale": 170.4,
@@ -529,7 +529,7 @@
   },
   {
     "Year": 101,
-    "work": "è—è¡“ã€å¨›æ¨‚åŠä¼‘é–’æœå‹™æ¥­",
+    "work": "ÃÀ³N¡B®T¼Ö¤Î¥ğ¶¢ªA°È·~",
     "salaryMale": 41965,
     "salaryFemale": 28328,
     "timeMale": 183.3,
@@ -537,7 +537,7 @@
   },
   {
     "Year": 101,
-    "work": "å…¶ä»–æœå‹™æ¥­",
+    "work": "¨ä¥LªA°È·~",
     "salaryMale": 37477,
     "salaryFemale": 29318,
     "timeMale": 191,
@@ -545,7 +545,7 @@
   },
   {
     "Year": 102,
-    "work": "ç¤¦æ¥­åŠåœŸçŸ³æ¡å–æ¥­",
+    "work": "Äq·~¤Î¤g¥Û±Ä¨ú·~",
     "salaryMale": 57708,
     "salaryFemale": 41831,
     "timeMale": 182.6,
@@ -553,7 +553,7 @@
   },
   {
     "Year": 102,
-    "work": "è£½é€ æ¥­",
+    "work": "»s³y·~",
     "salaryMale": 49425,
     "salaryFemale": 35624,
     "timeMale": 185.5,
@@ -561,7 +561,7 @@
   },
   {
     "Year": 102,
-    "work": "é›»åŠ›åŠç‡ƒæ°£ä¾›æ‡‰æ¥­",
+    "work": "¹q¤O¤Î¿U®ğ¨ÑÀ³·~",
     "salaryMale": 91533,
     "salaryFemale": 72173,
     "timeMale": 175.8,
@@ -569,7 +569,7 @@
   },
   {
     "Year": 102,
-    "work": "ç”¨æ°´ä¾›æ‡‰åŠæ±¡æŸ“æ•´æ²»æ¥­",
+    "work": "¥Î¤ô¨ÑÀ³¤Î¦Ã¬V¾ãªv·~",
     "salaryMale": 44779,
     "salaryFemale": 42045,
     "timeMale": 180.3,
@@ -577,7 +577,7 @@
   },
   {
     "Year": 102,
-    "work": "ç‡Ÿé€ æ¥­",
+    "work": "Àç³y·~",
     "salaryMale": 44879,
     "salaryFemale": 30539,
     "timeMale": 175.5,
@@ -585,7 +585,7 @@
   },
   {
     "Year": 102,
-    "work": "æ‰¹ç™¼åŠé›¶å”®æ¥­",
+    "work": "§åµo¤Î¹s°â·~",
     "salaryMale": 45590,
     "salaryFemale": 39212,
     "timeMale": 172.9,
@@ -593,7 +593,7 @@
   },
   {
     "Year": 102,
-    "work": "é‹è¼¸åŠå€‰å„²æ¥­",
+    "work": "¹B¿é¤Î­ÜÀx·~",
     "salaryMale": 52123,
     "salaryFemale": 44498,
     "timeMale": 182.6,
@@ -601,7 +601,7 @@
   },
   {
     "Year": 102,
-    "work": "ä½å®¿åŠé¤é£²æ¥­",
+    "work": "¦í±J¤ÎÀ\¶¼·~",
     "salaryMale": 33108,
     "salaryFemale": 28598,
     "timeMale": 168.8,
@@ -609,7 +609,7 @@
   },
   {
     "Year": 102,
-    "work": "è³‡è¨ŠåŠé€šè¨Šå‚³æ’­æ¥­",
+    "work": "¸ê°T¤Î³q°T¶Ç¼½·~",
     "salaryMale": 71451,
     "salaryFemale": 58862,
     "timeMale": 166.7,
@@ -617,7 +617,7 @@
   },
   {
     "Year": 102,
-    "work": "é‡‘èåŠä¿éšªæ¥­",
+    "work": "ª÷¿Ä¤Î«OÀI·~",
     "salaryMale": 86863,
     "salaryFemale": 72380,
     "timeMale": 164.4,
@@ -625,7 +625,7 @@
   },
   {
     "Year": 102,
-    "work": "ä¸å‹•ç”¢æ¥­",
+    "work": "¤£°Ê²£·~",
     "salaryMale": 39601,
     "salaryFemale": 41039,
     "timeMale": 182.1,
@@ -633,7 +633,7 @@
   },
   {
     "Year": 102,
-    "work": "å°ˆæ¥­ã€ç§‘å­¸åŠæŠ€è¡“æœå‹™æ¥­",
+    "work": "±M·~¡B¬ì¾Ç¤Î§Ş³NªA°È·~",
     "salaryMale": 60483,
     "salaryFemale": 49679,
     "timeMale": 174.4,
@@ -641,7 +641,7 @@
   },
   {
     "Year": 102,
-    "work": "æ”¯æ´æœå‹™æ¥­",
+    "work": "¤ä´©ªA°È·~",
     "salaryMale": 34145,
     "salaryFemale": 33540,
     "timeMale": 200.7,
@@ -649,7 +649,7 @@
   },
   {
     "Year": 102,
-    "work": "æ•™è‚²æœå‹™æ¥­",
+    "work": "±Ğ¨|ªA°È·~",
     "salaryMale": 26042,
     "salaryFemale": 21585,
     "timeMale": 119.9,
@@ -657,7 +657,7 @@
   },
   {
     "Year": 102,
-    "work": "é†«ç™‚ä¿å¥æœå‹™æ¥­",
+    "work": "ÂåÀø«O°·ªA°È·~",
     "salaryMale": 95665,
     "salaryFemale": 50764,
     "timeMale": 170.1,
@@ -665,7 +665,7 @@
   },
   {
     "Year": 102,
-    "work": "è—è¡“ã€å¨›æ¨‚åŠä¼‘é–’æœå‹™æ¥­",
+    "work": "ÃÀ³N¡B®T¼Ö¤Î¥ğ¶¢ªA°È·~",
     "salaryMale": 42528,
     "salaryFemale": 28794,
     "timeMale": 179,
@@ -673,7 +673,7 @@
   },
   {
     "Year": 102,
-    "work": "å…¶ä»–æœå‹™æ¥­",
+    "work": "¨ä¥LªA°È·~",
     "salaryMale": 38405,
     "salaryFemale": 29592,
     "timeMale": 190,
@@ -681,7 +681,7 @@
   },
   {
     "Year": 103,
-    "work": "ç¤¦æ¥­åŠåœŸçŸ³æ¡å–æ¥­",
+    "work": "Äq·~¤Î¤g¥Û±Ä¨ú·~",
     "salaryMale": 57463,
     "salaryFemale": 41204,
     "timeMale": 181.9,
@@ -689,7 +689,7 @@
   },
   {
     "Year": 103,
-    "work": "è£½é€ æ¥­",
+    "work": "»s³y·~",
     "salaryMale": 50974,
     "salaryFemale": 36746,
     "timeMale": 186.1,
@@ -697,7 +697,7 @@
   },
   {
     "Year": 103,
-    "work": "é›»åŠ›åŠç‡ƒæ°£ä¾›æ‡‰æ¥­",
+    "work": "¹q¤O¤Î¿U®ğ¨ÑÀ³·~",
     "salaryMale": 96809,
     "salaryFemale": 76904,
     "timeMale": 177.2,
@@ -705,7 +705,7 @@
   },
   {
     "Year": 103,
-    "work": "ç”¨æ°´ä¾›æ‡‰åŠæ±¡æŸ“æ•´æ²»æ¥­",
+    "work": "¥Î¤ô¨ÑÀ³¤Î¦Ã¬V¾ãªv·~",
     "salaryMale": 45221,
     "salaryFemale": 43508,
     "timeMale": 180.7,
@@ -713,7 +713,7 @@
   },
   {
     "Year": 103,
-    "work": "ç‡Ÿé€ æ¥­",
+    "work": "Àç³y·~",
     "salaryMale": 45364,
     "salaryFemale": 32255,
     "timeMale": 176.7,
@@ -721,7 +721,7 @@
   },
   {
     "Year": 103,
-    "work": "æ‰¹ç™¼åŠé›¶å”®æ¥­",
+    "work": "§åµo¤Î¹s°â·~",
     "salaryMale": 47798,
     "salaryFemale": 41403,
     "timeMale": 173.8,
@@ -729,7 +729,7 @@
   },
   {
     "Year": 103,
-    "work": "é‹è¼¸åŠå€‰å„²æ¥­",
+    "work": "¹B¿é¤Î­ÜÀx·~",
     "salaryMale": 52407,
     "salaryFemale": 44799,
     "timeMale": 182.8,
@@ -737,7 +737,7 @@
   },
   {
     "Year": 103,
-    "work": "ä½å®¿åŠé¤é£²æ¥­",
+    "work": "¦í±J¤ÎÀ\¶¼·~",
     "salaryMale": 33925,
     "salaryFemale": 30119,
     "timeMale": 169.5,
@@ -745,7 +745,7 @@
   },
   {
     "Year": 103,
-    "work": "è³‡è¨ŠåŠé€šè¨Šå‚³æ’­æ¥­",
+    "work": "¸ê°T¤Î³q°T¶Ç¼½·~",
     "salaryMale": 72727,
     "salaryFemale": 59153,
     "timeMale": 166.9,
@@ -753,7 +753,7 @@
   },
   {
     "Year": 103,
-    "work": "é‡‘èåŠä¿éšªæ¥­",
+    "work": "ª÷¿Ä¤Î«OÀI·~",
     "salaryMale": 90433,
     "salaryFemale": 78547,
     "timeMale": 165.9,
@@ -761,7 +761,7 @@
   },
   {
     "Year": 103,
-    "work": "ä¸å‹•ç”¢æ¥­",
+    "work": "¤£°Ê²£·~",
     "salaryMale": 42984,
     "salaryFemale": 42841,
     "timeMale": 182,
@@ -769,7 +769,7 @@
   },
   {
     "Year": 103,
-    "work": "å°ˆæ¥­ã€ç§‘å­¸åŠæŠ€è¡“æœå‹™æ¥­",
+    "work": "±M·~¡B¬ì¾Ç¤Î§Ş³NªA°È·~",
     "salaryMale": 62663,
     "salaryFemale": 51364,
     "timeMale": 176.2,
@@ -777,7 +777,7 @@
   },
   {
     "Year": 103,
-    "work": "æ”¯æ´æœå‹™æ¥­",
+    "work": "¤ä´©ªA°È·~",
     "salaryMale": 35000,
     "salaryFemale": 34818,
     "timeMale": 201.8,
@@ -785,7 +785,7 @@
   },
   {
     "Year": 103,
-    "work": "æ•™è‚²æœå‹™æ¥­",
+    "work": "±Ğ¨|ªA°È·~",
     "salaryMale": 27422,
     "salaryFemale": 22747,
     "timeMale": 124.5,
@@ -793,7 +793,7 @@
   },
   {
     "Year": 103,
-    "work": "é†«ç™‚ä¿å¥æœå‹™æ¥­",
+    "work": "ÂåÀø«O°·ªA°È·~",
     "salaryMale": 96517,
     "salaryFemale": 52560,
     "timeMale": 172.1,
@@ -801,7 +801,7 @@
   },
   {
     "Year": 103,
-    "work": "è—è¡“ã€å¨›æ¨‚åŠä¼‘é–’æœå‹™æ¥­",
+    "work": "ÃÀ³N¡B®T¼Ö¤Î¥ğ¶¢ªA°È·~",
     "salaryMale": 42156,
     "salaryFemale": 28898,
     "timeMale": 178.6,
@@ -809,7 +809,7 @@
   },
   {
     "Year": 103,
-    "work": "å…¶ä»–æœå‹™æ¥­",
+    "work": "¨ä¥LªA°È·~",
     "salaryMale": 40386,
     "salaryFemale": 31146,
     "timeMale": 188.4,
@@ -817,7 +817,7 @@
   },
   {
     "Year": 104,
-    "work": "ç¤¦æ¥­åŠåœŸçŸ³æ¡å–æ¥­",
+    "work": "Äq·~¤Î¤g¥Û±Ä¨ú·~",
     "salaryMale": 56391,
     "salaryFemale": 42176,
     "timeMale": 178.6,
@@ -825,7 +825,7 @@
   },
   {
     "Year": 104,
-    "work": "è£½é€ æ¥­",
+    "work": "»s³y·~",
     "salaryMale": 52853,
     "salaryFemale": 37892,
     "timeMale": 183.4,
@@ -833,7 +833,7 @@
   },
   {
     "Year": 104,
-    "work": "é›»åŠ›åŠç‡ƒæ°£ä¾›æ‡‰æ¥­",
+    "work": "¹q¤O¤Î¿U®ğ¨ÑÀ³·~",
     "salaryMale": 99346,
     "salaryFemale": 78969,
     "timeMale": 176.2,
@@ -841,7 +841,7 @@
   },
   {
     "Year": 104,
-    "work": "ç”¨æ°´ä¾›æ‡‰åŠæ±¡æŸ“æ•´æ²»æ¥­",
+    "work": "¥Î¤ô¨ÑÀ³¤Î¦Ã¬V¾ãªv·~",
     "salaryMale": 44385,
     "salaryFemale": 43515,
     "timeMale": 177.1,
@@ -849,7 +849,7 @@
   },
   {
     "Year": 104,
-    "work": "ç‡Ÿé€ æ¥­",
+    "work": "Àç³y·~",
     "salaryMale": 45323,
     "salaryFemale": 33104,
     "timeMale": 172.8,
@@ -857,7 +857,7 @@
   },
   {
     "Year": 104,
-    "work": "æ‰¹ç™¼åŠé›¶å”®æ¥­",
+    "work": "§åµo¤Î¹s°â·~",
     "salaryMale": 48437,
     "salaryFemale": 42845,
     "timeMale": 171.6,
@@ -865,7 +865,7 @@
   },
   {
     "Year": 104,
-    "work": "é‹è¼¸åŠå€‰å„²æ¥­",
+    "work": "¹B¿é¤Î­ÜÀx·~",
     "salaryMale": 53841,
     "salaryFemale": 45660,
     "timeMale": 181.3,
@@ -873,7 +873,7 @@
   },
   {
     "Year": 104,
-    "work": "ä½å®¿åŠé¤é£²æ¥­",
+    "work": "¦í±J¤ÎÀ\¶¼·~",
     "salaryMale": 34870,
     "salaryFemale": 30894,
     "timeMale": 168.6,
@@ -881,7 +881,7 @@
   },
   {
     "Year": 104,
-    "work": "è³‡è¨ŠåŠé€šè¨Šå‚³æ’­æ¥­",
+    "work": "¸ê°T¤Î³q°T¶Ç¼½·~",
     "salaryMale": 72677,
     "salaryFemale": 59576,
     "timeMale": 166,
@@ -889,7 +889,7 @@
   },
   {
     "Year": 104,
-    "work": "é‡‘èåŠä¿éšªæ¥­",
+    "work": "ª÷¿Ä¤Î«OÀI·~",
     "salaryMale": 93015,
     "salaryFemale": 79552,
     "timeMale": 162.4,
@@ -897,7 +897,7 @@
   },
   {
     "Year": 104,
-    "work": "ä¸å‹•ç”¢æ¥­",
+    "work": "¤£°Ê²£·~",
     "salaryMale": 42268,
     "salaryFemale": 42433,
     "timeMale": 178.6,
@@ -905,7 +905,7 @@
   },
   {
     "Year": 104,
-    "work": "å°ˆæ¥­ã€ç§‘å­¸åŠæŠ€è¡“æœå‹™æ¥­",
+    "work": "±M·~¡B¬ì¾Ç¤Î§Ş³NªA°È·~",
     "salaryMale": 63364,
     "salaryFemale": 52489,
     "timeMale": 172.3,
@@ -913,7 +913,7 @@
   },
   {
     "Year": 104,
-    "work": "æ”¯æ´æœå‹™æ¥­",
+    "work": "¤ä´©ªA°È·~",
     "salaryMale": 35731,
     "salaryFemale": 35610,
     "timeMale": 198.6,
@@ -921,7 +921,7 @@
   },
   {
     "Year": 104,
-    "work": "æ•™è‚²æœå‹™æ¥­",
+    "work": "±Ğ¨|ªA°È·~",
     "salaryMale": 27045,
     "salaryFemale": 23060,
     "timeMale": 124.1,
@@ -929,7 +929,7 @@
   },
   {
     "Year": 104,
-    "work": "é†«ç™‚ä¿å¥æœå‹™æ¥­",
+    "work": "ÂåÀø«O°·ªA°È·~",
     "salaryMale": 99187,
     "salaryFemale": 55631,
     "timeMale": 171.1,
@@ -937,7 +937,7 @@
   },
   {
     "Year": 104,
-    "work": "è—è¡“ã€å¨›æ¨‚åŠä¼‘é–’æœå‹™æ¥­",
+    "work": "ÃÀ³N¡B®T¼Ö¤Î¥ğ¶¢ªA°È·~",
     "salaryMale": 43613,
     "salaryFemale": 28366,
     "timeMale": 178.7,
@@ -945,7 +945,7 @@
   },
   {
     "Year": 104,
-    "work": "å…¶ä»–æœå‹™æ¥­",
+    "work": "¨ä¥LªA°È·~",
     "salaryMale": 39607,
     "salaryFemale": 30833,
     "timeMale": 185,
@@ -953,7 +953,7 @@
   },
   {
     "Year": 105,
-    "work": "ç¤¦æ¥­åŠåœŸçŸ³æ¡å–æ¥­",
+    "work": "Äq·~¤Î¤g¥Û±Ä¨ú·~",
     "salaryMale": 54753,
     "salaryFemale": 40900,
     "timeMale": 173.7,
@@ -961,7 +961,7 @@
   },
   {
     "Year": 105,
-    "work": "è£½é€ æ¥­",
+    "work": "»s³y·~",
     "salaryMale": 53227,
     "salaryFemale": 38500,
     "timeMale": 176.6,
@@ -969,7 +969,7 @@
   },
   {
     "Year": 105,
-    "work": "é›»åŠ›åŠç‡ƒæ°£ä¾›æ‡‰æ¥­",
+    "work": "¹q¤O¤Î¿U®ğ¨ÑÀ³·~",
     "salaryMale": 97157,
     "salaryFemale": 77556,
     "timeMale": 173.5,
@@ -977,7 +977,7 @@
   },
   {
     "Year": 105,
-    "work": "ç”¨æ°´ä¾›æ‡‰åŠæ±¡æŸ“æ•´æ²»æ¥­",
+    "work": "¥Î¤ô¨ÑÀ³¤Î¦Ã¬V¾ãªv·~",
     "salaryMale": 43053,
     "salaryFemale": 42156,
     "timeMale": 170.7,
@@ -985,7 +985,7 @@
   },
   {
     "Year": 105,
-    "work": "ç‡Ÿé€ æ¥­",
+    "work": "Àç³y·~",
     "salaryMale": 44675,
     "salaryFemale": 33367,
     "timeMale": 166.5,
@@ -993,7 +993,7 @@
   },
   {
     "Year": 105,
-    "work": "æ‰¹ç™¼åŠé›¶å”®æ¥­",
+    "work": "§åµo¤Î¹s°â·~",
     "salaryMale": 48325,
     "salaryFemale": 42825,
     "timeMale": 165.5,
@@ -1001,7 +1001,7 @@
   },
   {
     "Year": 105,
-    "work": "é‹è¼¸åŠå€‰å„²æ¥­",
+    "work": "¹B¿é¤Î­ÜÀx·~",
     "salaryMale": 54864,
     "salaryFemale": 46516,
     "timeMale": 175.3,
@@ -1009,7 +1009,7 @@
   },
   {
     "Year": 105,
-    "work": "ä½å®¿åŠé¤é£²æ¥­",
+    "work": "¦í±J¤ÎÀ\¶¼·~",
     "salaryMale": 34745,
     "salaryFemale": 31020,
     "timeMale": 164.9,
@@ -1017,7 +1017,7 @@
   },
   {
     "Year": 105,
-    "work": "è³‡è¨ŠåŠé€šè¨Šå‚³æ’­æ¥­",
+    "work": "¸ê°T¤Î³q°T¶Ç¼½·~",
     "salaryMale": 73885,
     "salaryFemale": 60826,
     "timeMale": 161.7,
@@ -1025,7 +1025,7 @@
   },
   {
     "Year": 105,
-    "work": "é‡‘èåŠä¿éšªæ¥­",
+    "work": "ª÷¿Ä¤Î«OÀI·~",
     "salaryMale": 92136,
     "salaryFemale": 81258,
     "timeMale": 163.2,
@@ -1033,7 +1033,7 @@
   },
   {
     "Year": 105,
-    "work": "ä¸å‹•ç”¢æ¥­",
+    "work": "¤£°Ê²£·~",
     "salaryMale": 40775,
     "salaryFemale": 41866,
     "timeMale": 170,
@@ -1041,7 +1041,7 @@
   },
   {
     "Year": 105,
-    "work": "å°ˆæ¥­ã€ç§‘å­¸åŠæŠ€è¡“æœå‹™æ¥­",
+    "work": "±M·~¡B¬ì¾Ç¤Î§Ş³NªA°È·~",
     "salaryMale": 64675,
     "salaryFemale": 52023,
     "timeMale": 167.1,
@@ -1049,7 +1049,7 @@
   },
   {
     "Year": 105,
-    "work": "æ”¯æ´æœå‹™æ¥­",
+    "work": "¤ä´©ªA°È·~",
     "salaryMale": 35997,
     "salaryFemale": 36049,
     "timeMale": 194.3,
@@ -1057,7 +1057,7 @@
   },
   {
     "Year": 105,
-    "work": "æ•™è‚²æœå‹™æ¥­",
+    "work": "±Ğ¨|ªA°È·~",
     "salaryMale": 27884,
     "salaryFemale": 23464,
     "timeMale": 126.4,
@@ -1065,7 +1065,7 @@
   },
   {
     "Year": 105,
-    "work": "é†«ç™‚ä¿å¥æœå‹™æ¥­",
+    "work": "ÂåÀø«O°·ªA°È·~",
     "salaryMale": 102175,
     "salaryFemale": 56406,
     "timeMale": 162.7,
@@ -1073,7 +1073,7 @@
   },
   {
     "Year": 105,
-    "work": "è—è¡“ã€å¨›æ¨‚åŠä¼‘é–’æœå‹™æ¥­",
+    "work": "ÃÀ³N¡B®T¼Ö¤Î¥ğ¶¢ªA°È·~",
     "salaryMale": 44482,
     "salaryFemale": 28709,
     "timeMale": 171.8,
@@ -1081,7 +1081,7 @@
   },
   {
     "Year": 105,
-    "work": "å…¶ä»–æœå‹™æ¥­",
+    "work": "¨ä¥LªA°È·~",
     "salaryMale": 38603,
     "salaryFemale": 30876,
     "timeMale": 178.3,

@@ -93,8 +93,8 @@ body{
     z-index: 99;
     left: -1px;
     top: 100%;
-    background-color: #333f50;
-
+    /*background-color: #333f50;*/
+	background-color: rgba(0,0,0,0.8);
 }
 .menu >ul >li ul a{   
     font-size: 20px;
@@ -105,7 +105,7 @@ body{
 }
 .menu li a{
 	text-decoration: none;
-	padding: 10px 40px ;
+	padding: 10px 23px ;
     display: block;
 }
 .main_content{
@@ -150,7 +150,7 @@ h3{
     font-size: 18px;
     background: rgba( 0,139,139, 0.5);
     cursor: pointer;
-    margin-left:42%;
+    margin-left:41.5%;
     text-align: center;
 }
 
