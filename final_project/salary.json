@@ -1,6 +1,6 @@
 [
   {
-    "work": "���ĤΫO�I�~",
+    "work": "金融及保險業",
     "male": 143343,
     "female": 231791,
     "salaryMale": 93015,
@@ -11,7 +11,7 @@
     "hourFemale": 489.8522167
   },
   {
-    "work": "�q�O�οU������~",
+    "work": "電力及燃氣供應業",
     "male": 25546,
     "female": 4244,
     "salaryMale": 99346,
@@ -22,7 +22,7 @@
     "hourFemale": 473.4352518
   },
   {
-    "work": "�����O���A�ȷ~",
+    "work": "醫療保健服務業",
     "male": 65067,
     "female": 269454,
     "salaryMale": 99187,
@@ -33,7 +33,7 @@
     "hourFemale": 322.4985507
   },
   {
-    "work": "��T�γq�T�Ǽ��~",
+    "work": "資訊及通訊傳播業",
     "male": 102715,
     "female": 92946,
     "salaryMale": 72677,
@@ -44,7 +44,7 @@
     "hourFemale": 362.8258222
   },
   {
-    "work": "�M�~�B��ǤΧ޳N�A�ȷ~",
+    "work": "專業、科學及技術服務業",
     "male": 134112,
     "female": 118947,
     "salaryMale": 63364,
@@ -55,7 +55,7 @@
     "hourFemale": 311.3226572
   },
   {
-    "work": "�B��έ��x�~",
+    "work": "運輸及倉儲業",
     "male": 192866,
     "female": 90951,
     "salaryMale": 53841,
@@ -66,7 +66,7 @@
     "hourFemale": 266.8614845
   },
   {
-    "work": "�q�~�Τg�۱Ĩ��~",
+    "work": "礦業及土石採取業",
     "male": 3212,
     "female": 688,
     "salaryMale": 56391,
@@ -77,7 +77,7 @@
     "hourFemale": 240.3190883
   },
   {
-    "work": "��o�ιs��~",
+    "work": "批發及零售業",
     "male": 775454,
     "female": 865439,
     "salaryMale": 48437,
@@ -88,7 +88,7 @@
     "hourFemale": 251.733255
   },
   {
-    "work": "�Τ������ΦìV��v�~",
+    "work": "用水供應及污染整治業",
     "male": 21370,
     "female": 6463,
     "salaryMale": 44385,
@@ -99,7 +99,7 @@
     "hourFemale": 255.5196712
   },
   {
-    "work": "�s�y�~",
+    "work": "製造業",
     "male": 1613930,
     "female": 1102573,
     "salaryMale": 52853,
@@ -110,7 +110,7 @@
     "hourFemale": 210.9799555
   },
   {
-    "work": "���ʲ��~",
+    "work": "不動產業",
     "male": 58244,
     "female": 58904,
     "salaryMale": 42268,
@@ -121,7 +121,7 @@
     "hourFemale": 241.370876
   },
   {
-    "work": "��y�~",
+    "work": "營造業",
     "male": 386161,
     "female": 74521,
     "salaryMale": 45323,
@@ -132,7 +132,7 @@
     "hourFemale": 195.9976317
   },
   {
-    "work": "���J�A�ȷ~",
+    "work": "住宿服務業",
     "male": 29496,
     "female": 39141,
     "salaryMale": 41353,
@@ -143,7 +143,7 @@
     "hourFemale": 184.5074456
   },
   {
-    "work": "���N�B�T�֤Υ𶢪A�ȷ~",
+    "work": "藝術、娛樂及休閒服務業",
     "male": 28482,
     "female": 27058,
     "salaryMale": 43613,
@@ -154,7 +154,7 @@
     "hourFemale": 160.6228766
   },
   {
-    "work": "�Ш|�A�ȷ~",
+    "work": "教育服務業",
     "male": 22834,
     "female": 50439,
     "salaryMale": 27045,
@@ -165,7 +165,7 @@
     "hourFemale": 168.5672515
   },
   {
-    "work": "�䴩�A�ȷ~",
+    "work": "支援服務業",
     "male": 171299,
     "female": 170253,
     "salaryMale": 35731,
@@ -176,7 +176,7 @@
     "hourFemale": 204.1857798
   },
   {
-    "work": "��L�A�ȷ~",
+    "work": "其他服務業",
     "male": 36357,
     "female": 50024,
     "salaryMale": 39607,
