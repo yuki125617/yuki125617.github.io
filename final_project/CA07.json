@@ -1,0 +1,28 @@
+
+  labels: [
+    '礦業及土石採取業'
+  ],
+  series: [
+    {
+      label: '2009',
+      values: [180.15]
+    },{
+      label: '2010',
+      values: [182.1]
+    },{
+      label: '2011',
+      values: [180.05]
+    },{
+      label: '2012',
+      values: [181.45]
+    },{
+      label: '2013',
+      values: [179.95]
+    },{
+      label: '2014',
+      values: [179.2]
+    },{
+      label: '2015',
+      values: [177.05]
+    },
+    ]
