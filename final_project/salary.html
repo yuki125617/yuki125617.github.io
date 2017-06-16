@@ -68,15 +68,15 @@ body{
     padding: 0 10px 0 10px;
 }
 .menu a:hover {
-    color:  #7fffd4;
+    color: #008b8b;
 }
 
-.content{
+
+.main_content{
     margin-top: 20px;
     padding: 20px;
     background-color: rgba(255,255,255,0.5);
     border-radius: 2px;
-    box-shadow: 0 3px 15px rgba(103, 122, 141, 0.17);
 }
 
 .footer{
@@ -117,6 +117,27 @@ rect:hover {  fill: #00ff7f; }
     width:50px;
 }
 
+.goTop {
+    width: 150px;
+    border-radius: 50px;
+    padding: 5px 0px;
+    font-size: 18px;
+    background: rgba( 0,139,139, 0.5);
+    cursor: pointer;
+    margin-left: 45%;
+}
+
+
+.goTop a{ 
+    color: white; 
+    text-decoration:none; 
+    font-family:微軟正黑體;
+    font-weight: bold;
+}
+.goTop a:hover{ 
+    color:#d3d3d3;
+}
+
 </style>
  </head>
  <body>
@@ -138,8 +159,17 @@ rect:hover {  fill: #00ff7f; }
             </div>
         </div>
         <div class="content">
-            <div id='dashboard'>
+            <div class="main_content">
+                <div id='dashboard'>
+                </div>
             </div>
+            <div class="buttom_content">
+                <p align="center">&nbsp;</p>
+                <div class="goTop" ><p align="center"><a href="#">按我回去</a></p></div>
+                <p align="center">&nbsp;</p>
+            </div>
+            
+            
         </div>
         <div class="footer">
         </div>
@@ -347,21 +377,37 @@ function dashboard(id, fData){
 </script>
 
 <script>
-
-var xhr = new XMLHttpRequest();
-xhr.open('get','file:///C:/Users/%E9%9B%AA%E8%8A%AC/Desktop/final_project/salary.json');
-xhr.send(null);
-xhr.onload = function(){
-  var freqData = JSON.parse(xhr.responseText);
-  str='';
-   for(var i=0;freqData.length>i;i++){
-    str+='{State:'+freqData[i].work+',freq:{male:'+freqData[i].salaryMale+', female:'+freqData[i].salaryFemale+'}}';
-    
-  }
-  document.getElementById('freqData').innerHTML = str;
-}
+var freqData=[
+{State:'金融及保險業',freq:{male: 143343, female: 231791,}}
+,{State:'電力及燃氣供應業',freq:{male: 25546,female: 4244,}}
+,{State:'醫療保健服務業',freq:{male: 65067,female: 269454,}}
+,{State:'資訊及通訊傳播業',freq:{male: 102715,female: 92946,}}
+,{State:'專業、科學及技術服務業',freq:{male: 134112,female: 118947}}
+,{State:'運輸及倉儲業',freq:{male: 192866,female: 90951}}
+,{State:'礦業及土石採取業',freq:{male: 3212,female: 688}}
+,{State:'批發及零售業',freq:{male: 775454,female: 865439}}
+,{State:'用水供應及污染整治業',freq:{male: 21370,female: 6463}}
+,{State:'製造業',freq:{male: 1613930,female: 1102573}}
+];
 
 dashboard('#dashboard',freqData);
+</script>
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js'></script>
+<script>
+
+$(function(){
+    
+    $(".goTop").click(function(){
+
+        $("html,body").animate({scrollTop:0},900);
+
+        //$("html,body").animate({scrollTop:0},900,"easeOutBounce");
+
+        return false;
+
+    });
+
+});
 </script>
  </body>
  </html>

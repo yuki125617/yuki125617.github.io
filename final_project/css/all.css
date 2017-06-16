@@ -24,18 +24,19 @@ body{
     background-repeat:no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    font-family: 微軟正黑體;
     width:1060px;
     margin:0 auto;
 }
 
-.big-wrap {
+.home-wrap {
     width: 80%;
     margin: 0 10%;
+    font-family: 微軟正黑體;
+    font-weight: bold;
 }
 
-/*----bigheader----*/
-.big-header{
+/*----homeheader----*/
+.home-header{
     padding-top: 20px;
     padding-bottom: 20px;
     /*background-color: #FFF4E1;*/
@@ -46,6 +47,7 @@ body{
 /*--logo--*/
 .logo{
     text-align: center;
+    margin-bottom: 20px;
 }
 .logo img {
     width: 30px;
@@ -83,17 +85,56 @@ body{
     padding: 0 10px 0 10px;
 }
 .menu a:hover {
-    color:  #7fffd4;
+    color: #008b8b;
 }
+.menu >ul >li ul{
+    display: none;
+    position: absolute;
+    z-index: 99;
+    left: -1px;
+    top: 100%;
+    background-color: #333f50;
 
-.content{
+}
+.menu >ul >li ul a{   
+    font-size: 20px;
+    padding: 10px 10px;
+}
+.menu >ul > li:hover  ul { /* 滑鼠滑入展開次選單*/
+    display: block;
+}
+.menu li a{
+	text-decoration: none;
+	padding: 10px 40px ;
+    display: block;
+}
+.main_content{
     margin-top: 20px;
     padding: 20px;
-    background-color: rgba(255,255,255,0.5);
+    background-color: rgba(255,255,255,0.8);
     border-radius: 2px;
-    box-shadow: 0 3px 15px rgba(103, 122, 141, 0.17);
+    
 }
-
+.main_content h2 {
+	font-size: 60px;
+	font-weight: bold;
+	color: #F3B05A;
+	margin: 0;
+	text-align: center;
+}
+#introduce {
+	text-align: left;
+	margin: 0 auto;
+	padding:20px 20px 20px 20px;
+	line-height: 32px;
+	font-size: 20px;
+	color: #D50B53;
+}
+h3{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
 .footer{
     margin-top: 20px;
     padding-top: 20px;
@@ -102,14 +143,35 @@ body{
     border-radius: 2px;
 }
 
+.goTop {
+    width: 150px;
+    border-radius: 50px;
+    padding: 20px 0px;
+    font-size: 18px;
+    background: rgba( 0,139,139, 0.5);
+    cursor: pointer;
+    margin-left:42%;
+    text-align: center;
+}
+
+.goTop a{ 
+    color: white; 
+    text-decoration:none; 
+    font-family:微軟正黑體;
+    font-weight: bold;
+}
+.goTop a:hover{ 
+    color:#d3d3d3;
+}
+
 /*----bigcontent----*/
-.big-content{
+/*.big-content{
 	margin-top: 20px;
 	padding: 20px;
 	background-color: #F1FCFD;
 	border-radius: 2px;
 	box-shadow: 0 3px 15px rgba(103, 122, 141, 0.17);
-}
+}*/
 	/*--welcome--*/
 #welcome {
 	text-align: center;
@@ -121,13 +183,7 @@ body{
 	color: #118A7E;
 	margin: 0;
 }
-#intro {
-	text-align: left;
-	margin: 0 auto;
-	padding:20px 20px 0 20px;
-	line-height: 32px;
-	font-size: 17px;
-}
+
 #intro2{
 	text-align: left;
 	margin: 0 auto;
